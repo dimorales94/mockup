@@ -1,10 +1,10 @@
     body{    background-image: url("http://i68.tinypic.com/fom0sw.jpg");
              background-repeat:repeat;
-            font-family: arial,helvetica, sans-serif;
+
          }
 
         .container{
-            background-color: black;
+            background-color: ;
             width:1024px;
             margin-left: auto;
             margin-right: auto;
@@ -92,12 +92,12 @@
         }
 
         a:visited{
-            color: white;
+            color: blue;
 
         }
 
         a:hover{
-            color: white;
+            color: purple;
 
         }
 
