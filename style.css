@@ -1,107 +1,111 @@
-    body{    background-image: url("http://i68.tinypic.com/fom0sw.jpg");
-             background-repeat:repeat;
+body{    background-image: url("http://i68.tinypic.com/fom0sw.jpg");
+     background-repeat:repeat;
 
-         }
+ }
 
-        .container{
-            background-color: ;
-            width:1024px;
-            margin-left: auto;
-            margin-right: auto;
-            padding:20px;
-            }
+.container{
+    background-color: ;
+    width:1024px;
+    margin-left: auto;
+    margin-right: auto;
+    padding:20px;
+}
 
-        .separate{
-            background-color:#aaaac4;
-            padding: 20px;
-            border-radius: 25px;
-            position: relative;
-            width: 100%;
-            }
+.separate{
+    background-color:#aaaac4;
+    padding: 20px;
+    border-radius: 25px;
+    position: relative;
+    width: 100%;
+    }
 
-        #nav{
-            background-color: #322374;
-            padding: 10px;
-            margin-bottom: 10px;
-            width: 900px;
-            margin: auto;
-            text-align: center;
-            margin: 20px auto;
-            border-radius:25px;
-            }
+#nav{
+    background-color: #322374;
+    padding: 10px;
+    margin-bottom: 10px;
+    width: 900px;
+    margin: auto;
+    text-align: center;
+    margin: 20px auto;
+    border-radius:25px;
+    }
 
-        h1{
-            background-color: purple;
-            color: white;
-            padding: 10px;
-            text-align: center;
-            font-size: 20px;
-            font-weight:700;
-            border-radius: 10px;
-            font-family: futura;
+h1{
+    background-color: purple;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    font-size: 20px;
+    font-weight:700;
+    border-radius: 10px;
+    font-family: futura;
 
-        }
-        h2{
-            color: #7650a0;
-            text-align: center;
-            font-family: futura;
+}
+h2{
+    color: #7650a0;
+    text-align: center;
+    font-family: futura;
 
-        }
+}
 
-        h3{
-            color: #336d79;
-            font-family: futura;
-            font-size: 12px;
-            text-align: center;
-        }
-        .cathead{
-        margin-left: auto;
-        margin-right: auto;
-        width: 9em
-            }
-        p{
-            font-family: futura;
-        }
+h3{
+    color: #336d79;
+    font-family: futura;
+    font-size: 12px;
+    text-align: center;
+}
 
-        div.img {
-        margin: 2px;
-         border: 2px solid #ccc;
-          float: right;
-          width: 180px;
-      }
-      div.desc {
+.cathead{
+    margin-left: auto;
+    margin-right: auto;
+    width: 9em
+}
+
+p {
+    font-family: futura;
+}
+
+div.img {
+    margin: 2px;
+    border: 2px solid #ccc;
+    float: right;
+    width: 180px;
+}
+
+div.desc {
     padding: 15px;
     text-align: center;
 }
-    div.img img {
+
+div.img img {
     width: 76%;
     height: auto;
-    }
-     div.img:hover {
+}
+
+div.img:hover {
     border: 2px solid #336d79;
+    background-color: white;
 }
 
 
-        a:link{
-            color: #336d79;
-            text-decoration: none;
-            margin:0px 20px;
-            font-family: futura;
+a:link{
+    color: #336d79;
+    text-decoration: none;
+    margin:0px 20px;
+    font-family: futura;
+}
 
+a:visited{
+    color: blue;
 
-        }
+}
 
-        a:visited{
-            color: blue;
+a:hover{
+    color: purple;
 
-        }
+}
 
-        a:hover{
-            color: purple;
+a:active{
+    color: white;
 
-        }
-
-        a:active{
-            color: white;
-
-        }
+}
