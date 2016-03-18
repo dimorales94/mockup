@@ -1,5 +1,5 @@
 $(document).ready(function(){
-	var imageName = ["http://i64.tinypic.com/35176tf.jpg", "http://i68.tinypic.com/6sf7r5.jpg", "http://i68.tinypic.com/2d8f4ih.gif","http://i65.tinypic.com/34sngo2.jpg"];
+	var imageName = ["http://i66.tinypic.com/oa93rp.png", "http://i65.tinypic.com/20jh11j.png", "http://i64.tinypic.com/4to5r6.png","http://i66.tinypic.com/2ztj3t4.png","http://i64.tinypic.com/345n6mc.png","http://i68.tinypic.com/xeidrl.png","http://i63.tinypic.com/sb4rpl.png","http://i63.tinypic.com/2u7cbrk.png","http://i64.tinypic.com/2lwn0at.png","http://i66.tinypic.com/1z1zjbq.png","http://i64.tinypic.com/11tvq4j.png","http://i63.tinypic.com/m9u2d0.png"];
 	var imageTitle=[ "Surprised.", "Burger", "Many cats", "Sandwich"]
 	var counter = 0;
 
